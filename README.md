@@ -1,5 +1,3 @@
-![Uploading DALL·E 2023-11-22 14.54.57 - A sleek and modern professional profile design for Oudoum Ali Houmed, focusing on cyber security, machine learning, and IT skills. The design features.png…]()
-
 <h1 align="center">Hi 👋, I'm Oudoum Ali Houmed</h1>
 <h3 align="center">A Passionate Cyber Security and Machine Learning Researcher</h3>
 
