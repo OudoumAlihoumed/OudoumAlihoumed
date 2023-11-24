@@ -17,7 +17,7 @@
 <p align="center">
   <strong>Key Competencies:</strong>
   SIEM (Splunk, QRadar), Cybersecurity tools (Burp Suite, Metasploit, Nmap, Nessus), Networking, OSINT, Machine Learning Specializations, and more.
-  <script src="https://tryhackme.com/badge/1052739"></script>
+
 </p>
 
 
