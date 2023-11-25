@@ -5,7 +5,8 @@
 
 <p align="center">
   <a href="mailto:oudoumali23@gmail.com">📫 Reach me</a> | 
-  <a href="https://www.linkedin.com/in/oudoum-ali-houmed-73444422b">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/oudoum-ali-houmed-73444422b">LinkedIn</a> |
+  <a href="https://medium.com/@oudoumali23"> My Block</a>
 </p>
 
 <p align="center">
