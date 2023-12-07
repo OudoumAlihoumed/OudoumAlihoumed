@@ -12,7 +12,7 @@
 
 
 <p align="center">
-  <strong>CompTIA Security+ Certified | Jr Penetration Tester | Jr Vulnerability Analyst | SIEM Specialist | Machine Learning Enthusiast</strong>
+  <strong>CompTIA Security+ Certified | Penetration Tester | Vulnerability Analyst | SIEM Specialist | Machine Learning Enthusiast</strong>
 </p>
 
 
