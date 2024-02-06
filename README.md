@@ -13,6 +13,7 @@
 
 <p align="center">
   <strong>CompTIA Security+ Certified | Penetration Tester | Vulnerability Analyst | SIEM Specialist | Machine Learning Enthusiast</strong>
+  <script src="https://tryhackme.com/badge/1052739"></script>
 </p>
 
 
