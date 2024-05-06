@@ -12,14 +12,13 @@
 
 
 <p align="center">
-  <strong>CompTIA Security+ Certified | Penetration Tester | Vulnerability Analyst | SIEM Specialist | Machine Learning Enthusiast</strong>
+  <strong> CompTIA Security+ Certified | Cyber Security Specialist| Machine Learning Research </strong>
 </p>
 
 
 
 <p align="center">
-  <strong>Key Competencies:</strong>
-  SIEM (Splunk, QRadar), Cybersecurity tools (Burp Suite, Metasploit, Nmap, Nessus), Networking, OSINT, Machine Learning Specializations, and more.
+  <strong>Key Competencies:</strong> Cybersecurity tools (Burp Suite, Metasploit, Nmap, Nessus), Networking, OSINT, Machine Learning Specializations, and more.
 
 </p>
 
