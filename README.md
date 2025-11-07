@@ -21,10 +21,4 @@
   <strong>Key Competencies:</strong> Cybersecurity tools (Burp Suite, Metasploit, Nmap, Nessus), Networking, OSINT, Machine Learning Specializations, and more.
 
 </p>
-<img src="https://tryhackme-badges.s3.amazonaws.com/OudoumHoumed.png" alt="Your Image Badge" />
-
-
-![DALL·E 2023-11-22 14 54 57 - A sleek and modern professional profile design for Oudoum Ali Houmed, focusing on cyber security, machine learning, and IT skills  The design features](https://github.com/OudoumAlihoumed/OudoumAlihoumed/assets/135204733/74ab3995-0684-411c-9291-83aafdddb5a9)
-
-
 
