@@ -21,4 +21,4 @@
   <strong>Key Competencies:</strong> Cybersecurity tools (Burp Suite, Metasploit, Nmap, Nessus), Networking, OSINT, Machine Learning Specializations, and more.
 
 </p>
-
+ 
