@@ -1,10 +1,10 @@
-# Hi, I'm Oudoum Ali Houmed 👋
+# Hi, I'm Oudoum Ali Houmed 
 
 AI safety researcher & engineer in Paris — adversarial robustness, red-teaming, and mechanistic interpretability.
 
-🔭 M.Sc. Data, Knowledge & Hybrid AI @ Paris-Saclay · 💼 Research Engineering Intern @ Kappa Santé
+ M.Sc. Data, Knowledge & Hybrid AI @ Paris-Saclay · Research Engineering Intern @ Kappa Santé
 
-🚀 AI Safety Research Fellow @ Black in AI Safety & Ethics · 🌱 ARENA · BlueDot · OxML 2025
+ AI Safety Research Fellow @ Black in AI Safety & Ethics · ARENA · BlueDot · OxML 2025
 
 ### Featured work
 
@@ -14,4 +14,4 @@ AI safety researcher & engineer in Paris — adversarial robustness, red-teaming
 
 `PyTorch` `LangGraph` `LLMs` `Adversarial ML` `Interpretability`
 
-🌐 [Portfolio](https://oudoumalihoumed.github.io/) · 🎓 [Google Scholar](#) · 📧 [Email](mailto:oudoum.ali-houmed@universite-paris-saclay.fr)
+🌐 [Portfolio](https://oudoumalihoumed.github.io/) ·  [Google Scholar](#) · 📧 [Email](mailto:oudoum.ali-houmed@universite-paris-saclay.fr)
