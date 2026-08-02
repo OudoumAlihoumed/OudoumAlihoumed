@@ -1,77 +1,54 @@
-# Hi there, I'm Oudou Mali Houmed! 👋
+# Hi there, I'm Oudoum Ali Houmed! 👋
 
-Welcome to my GitHub profile! I'm a passionate developer on a continuous journey of learning and building. This page serves as my personal and professional roadmap, tracking where I've been, where I am, and where I'm going.
+Welcome to my GitHub profile! I am an AI researcher and engineer currently based in Paris, France. My core focus is on AI safety and the robustness of machine learning systems. I am particularly interested in adversarial robustness, reliability under distribution shift, red-teaming, mechanistic interpretability, and neurosymbolic approaches to trustworthy AI.
 
 ---
 
-## 🗺️ My Journey / Roadmap
+## 🗺️ My Roadmap
 
-*A timeline of my professional background and continuous learning.*
+*A timeline of my academic background and continuous research.*
 
 ### 📍 Current Destination
-- **Present:** 🔭 Currently working on **[Project Name or Role]**
-- **Present:** 🌱 Currently learning **[Technology/Language, e.g., React, Go, Machine Learning]**
-- **Present:** 👯 Looking to collaborate on **[Open Source projects / Specific tech stack]**
+*   **Present:** 🔭 Pursuing an M.Sc. in Data, Knowledge and Hybrid Artificial Intelligence (DKAI) at Paris-Saclay University.
+*   **Present:** 💼 Working as a Research Engineering Intern at Kappa Santé, focusing on Healthcare Generative Modeling & AI Robustness.
+*   **Present:** 🌱 Continuously advancing my knowledge through rigorous programs like ARENA, AI Safety Fundamentals (BlueDot Impact), and OxML 2025.
 
 ### 🚩 Milestones
-- **[Year]:** 🎓 Graduated with a degree in **[Your Degree]** from **[University Name]**.
-- **[Year]:** 💼 Started working as a **[Your First Role]** at **[Company Name]**.
-- **[Year]:** 🚀 Deployed my first major project: **[Project Name]**.
-- **[Year]:** 🌐 Launched my personal portfolio: [oudoumalihoumed.github.io](https://oudoumalihoumed.github.io/)
+*   **2026:** 🚀 Served as an AI Safety Research Fellow at Black in AI Safety & Ethics, measuring deception detection in frontier models under adversary budgets.
+*   **2025:** 📄 Authored manuscripts on Endpoint Security and Adversarial Threats to Safety-Critical Medical AI.
+*   **2024 - 2025:** 🔬 Investigated the vulnerability of medical diagnostic architectures as a Research Assistant at ANÖROM.
+*   **2023:** 💼 Co-architected "Cyber Inspector" as a Summer Research Intern at AISEC LAB, deploying an ML pipeline to detect malicious web queries.
+*   **2020 - 2024:** 🎓 Completed my Bachelor of Science in Computer Engineering at Necmettin Erbakan University, graduating in the top 10% of my cohort with a Full Scholarship.
 
 ---
 
-## 🛠️ My Tech Stack
+## 🛠️ Skills & Technologies
 
-*The tools I use to bring ideas to life.*
+*The technical stack built through my project and research experience.*
 
-### Languages
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-<!-- Add or change languages here based on your profile -->
-
-### Frameworks & Libraries
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-<!-- Add frameworks here -->
-
-### Tools & Platforms
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-<!-- Add tools here -->
+*   **AI/ML Frameworks & Libraries:** PyTorch, LangGraph
+*   **Models & Concepts:** Llama 3.1 8B, Llama-3.3-70B, Large Language Models (LLMs), Support Vector Machines (SVM), Random Forest, Deep Learning
+*   **Research Techniques:** Adversarial Attacks (FGSM, PGD), Mechanistic Interpretability, Red-teaming, Gradient-based Optimization
+*   **Deployment:** Flask
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Research & Projects
 
-Here are a few stops along my roadmap that I'm particularly proud of:
+Here are a few technical deep-dives along my roadmap:
 
-| Project Name | Description | Tech Stack | Link |
-|--------------|-------------|------------|------|
-| **[Project 1]** | Briefly describe what the project does and the problem it solves. | `Tech 1`, `Tech 2` | [View Source](#) |
-| **[Project 2]** | Briefly describe what the project does and the problem it solves. | `Tech 1`, `Tech 2` | [View Source](#) |
-| **[Project 3]** | Briefly describe what the project does and the problem it solves. | `Tech 1`, `Tech 2` | [View Source](#) |
-
----
-
-## 📈 GitHub Stats
-
-*Tracking my coding journey.*
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=oudoumalihoumed&show_icons=true&theme=radium" alt="Oudou Mali Houmed's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=oudoumalihoumed&theme=radium" alt="Oudou Mali Houmed's GitHub Streak" />
-</div>
+| Project / Research | Description | Key Tech |
+|---|---|---|
+| **SPEC-GAP** | Built a LangGraph scaffold to study indirect prompt injection in multi-agent delegation at 2- and 3-hop depths. Trained linear probes on Llama 3.1 8B residual-stream activations to detect adversarial delegation. | `Llama 3.1 8B`, `LangGraph`, `PyTorch` |
+| **Deception Monitors Protocol** | Developed an adversary-budget ladder (b0-b4) to evaluate how well deception detection survives on Llama-3.3-70B. Created surface-classifier and chain-of-thought controls to inform technical AI standards. | `Llama-3.3-70B`, `Alignment` |
+| **Adversarial Threats to Medical AI** | Assessed the security of 20 deep learning tumour detectors in Brain MRI and Kidney CT against white-box attacks. Conducted 280 model-condition evaluations validated with Friedman/Nemenyi testing. | `FGSM`, `PGD`, `Medical AI` |
 
 ---
 
 ## 📫 Let's Connect!
 
-I'm always open to discussing new opportunities, tech, or collaborations. 
+I am highly engaged in the AI Safety and Research community. Let's talk!
 
-- 🌐 **Portfolio:** [oudoumalihoumed.github.io](https://oudoumalihoumed.github.io/)
-- 💼 **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- 📧 **Email:** [your.email@example.com](mailto:your.email@example.com)
-
----
-*“Success is a journey, not a destination.”*
+*   🌐 **Portfolio:** [oudoumalihoumed.github.io](https://oudoumalihoumed.github.io/)
+*   🎓 **Google Scholar:** [oudoum-ali-houmed](#)
+*   📧 **Email:** [oudoum.ali-houmed@universite-paris-saclay.fr](mailto:oudoum.ali-houmed@universite-paris-saclay.fr)
