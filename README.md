@@ -14,4 +14,4 @@ AI safety researcher & engineer in Paris - adversarial robustness, red-teaming, 
 
 `PyTorch` `LangGraph` `LLMs` `Adversarial ML` `Interpretability`
 
-🌐 [Portfolio](https://oudoumalihoumed.github.io/) ·  [Google Scholar](#) · 📧 [Email](mailto:oudoum.ali-houmed@universite-paris-saclay.fr)
+🌐 [Portfolio](https://oudoumalihoumed.github.io/) ·  [Google Scholar](https://scholar.google.com/citations?user=zAKNrXEAAAAJ&hl=tr) · 📧 [Email](mailto:oudoum.ali-houmed@universite-paris-saclay.fr)
