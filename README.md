@@ -1,6 +1,6 @@
 # Hi, I'm Oudoum Ali Houmed 
 
-AI safety researcher & engineer in Paris — adversarial robustness, red-teaming, and mechanistic interpretability.
+AI safety researcher & engineer in Paris - adversarial robustness, red-teaming, and mechanistic interpretability.
 
  M.Sc. Data, Knowledge & Hybrid AI @ Paris-Saclay · Research Engineering Intern @ Kappa Santé
 
