@@ -8,7 +8,7 @@ AI safety researcher & engineer in Paris - adversarial robustness, red-teaming, 
 
 ### Featured work
 
-* **SPEC-GAP** — indirect prompt injection across 2–3 hop agent delegation, with linear probes on Llama 3.1 8B activations.
+* **SPEC-GAP** — indirect prompt injection across 2–3 hop agent delegation, with linear probes on Qwen 32B activations.
 * **Deception Monitors** — adversary-budget ladder (b0–b4) testing deception detection on Llama-3.3-70B.
 * **Adversarial Threats to Medical AI** — 20 tumour detectors, 280 evaluations under FGSM/PGD.
 
